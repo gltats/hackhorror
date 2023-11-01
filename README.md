@@ -37,3 +37,5 @@ The Halloween project was created for fun and entertainment. It was not meant fo
 
 ## Conclusion
 QR codes are a fascinating technology, but they come with their own set of security issues. Understanding these issues and following best practices is crucial to protect yourself and your users. The Halloween "hack" project showcased a creative way to have fun with code while keeping everything in good spirits. Enjoy exploring QR code security and have a spooktacular time with your Halloween projects!
+
+#### This project was created by the Wolfguard Cyberclub at 42 Wolfsburg
